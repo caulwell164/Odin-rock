@@ -15,11 +15,10 @@
 }
 
 .modal-content{
-    display: none;
     background: #fff;
     text-align: center;
     margin: 10% auto;
-    width: 350px;
+    width: 250px;
     border-radius: 10px;
     padding: 3rem;
     box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2), 0 7px 20px 0 rgba(0,0,0,0.17);
@@ -32,7 +31,7 @@
 }
 
 .modal-content p{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     margin-top: 1rem;
 }
 
